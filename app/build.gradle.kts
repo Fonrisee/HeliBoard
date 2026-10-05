@@ -116,6 +116,7 @@ android {
 }
 
 dependencies {
+    implementation("com.google.mlkit:translate:17.0.3")
     // androidx
     implementation("androidx.core:core-ktx:1.17.0") // 1.18.0 requires minSdk 23
     implementation("androidx.recyclerview:recyclerview:1.4.0")
