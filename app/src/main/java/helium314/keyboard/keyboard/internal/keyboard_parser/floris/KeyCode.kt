@@ -51,6 +51,7 @@ object KeyCode {
     const val CLIPBOARD_SELECT_WORD =        -34 // CLIPBOARD_SELECT
     const val CLIPBOARD_SELECT_ALL =         -35
     const val CLIPBOARD_CLEAR_HISTORY =      -36
+    const val TRANSLATE = -10900
     //const val CLIPBOARD_CLEAR_FULL_HISTORY = -37
     //const val CLIPBOARD_CLEAR_PRIMARY_CLIP = -38
 
